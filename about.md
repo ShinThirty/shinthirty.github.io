@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Lingnan Liu, and I am currently a Software Development Engineer in San Francisco Bay Area.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I studied Telecommunication, Computer Science and Computer Engineering at [Cornell University](https://www.cornell.edu/). When I am in my
+leisure time, I love coding, mathematic puzzles (especially linear algebra).
 
+I have been in the IT industry for 4 years now. With some chances working on Alexa, the Amazon voice assistant, I had some experience of
+Amazon Web Service infrastructure and how to best utilize them in a large scale project.
 
-[jekyll-organization]: https://github.com/jekyll
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lingnan/)!
