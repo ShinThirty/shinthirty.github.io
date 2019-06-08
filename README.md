@@ -1,1 +1,0 @@
-# shinthirty.github.io
