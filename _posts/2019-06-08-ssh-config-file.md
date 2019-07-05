@@ -16,15 +16,15 @@ alias. For example, if you have a remote host named `awesome-cloud-desktop.examp
 public/private authorization for password-less logins. This means a typical ssh login command line will look like this:
 
 ```bash
-$ ssh shinthirty@awesome-cloud-desktop.example.com -p <your_defined_port>
+ssh shinthirty@awesome-cloud-desktop.example.com -p <your_defined_port>
 # Assusming you keys are properly set up...
 ```
 
 Not too bad. But to cut down the verbosity you can use alias to simplify the command line:
 
 ```bash
-$ alias dev='ssh shinthirty@awesome-cloud-desktop.example.com -p <your_defined_port>'
-$ dev # To connect
+alias dev='ssh shinthirty@awesome-cloud-desktop.example.com -p <your_defined_port>'
+dev # To connect
 ```
 
 ## ~/.ssh/config
@@ -49,6 +49,6 @@ specific host or set up local port forwarding to access a blocked port on the re
 
 ---
 
-### Reference
+## Reference
 
 * [Simplify Your Life With an SSH Config File, Joël Perras](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
